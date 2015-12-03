@@ -102,8 +102,8 @@ entry:
         amount: Montant
         num_people: Nombre de personnes
         person_created_list: Créateur de la liste
-        exposed: Le cr&eacute;ateur de la liste conna&icirc;t toutes les attributions
-        not_exposed: Le cr&eacute;ateur de la liste ne conna&icirc;t pas les attributions
+        exposed: Le créateur de la liste connaît toutes les attributions
+        not_exposed: Le créateur de la liste ne connaît pas les attributions
     title: Personne désignée
     body: >
         <p>Bonjour %name%,</p>
@@ -273,9 +273,9 @@ emails:
 
             (ADMINISTRATOR) a créé un événement Secret Santa et vous a ajouté comme participant.
 
-            Rejoignez le jeu Secret Santa et découvrez la personne a qui vous devrez offrir un cadeau en cliquant sur le bouton ci-dessous
+            Rejoignez le jeu Secret Santa et découvrez la personne à qui vous devrez offrir un cadeau en cliquant sur le bouton ci-dessous.
 
-            Pouvez dépenser jusqu'à %amount% pour votre cadeau. Mais bien sûr, créer votre cadeau est permis. C'est même vivement recommandé !
+            Vous pouvez dépenser jusqu'à %amount% pour votre cadeau. Mais bien sûr, créer votre cadeau est permis. C'est même vivement recommandé !
 
             La Secret Santa party est prévue le %date%. Assurez-vous d'amener votre cadeau.
 
